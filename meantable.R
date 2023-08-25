@@ -6,7 +6,7 @@
 #' @param statvar 
 #'
 #' @return 
-#' @export
+#' @export meantable()
 #'
 #' @examples 
 meantable <- function(x, colvar, rowvar, statvar) {
